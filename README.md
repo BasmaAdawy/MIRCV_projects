@@ -6,9 +6,9 @@ here you will find 2 notebooks:
 
 
 
-* In the FaceDetection_deepface notebook you will find how to use the pretrained deepface model on an image to predict the age/gender/ 
+In the FaceDetection_deepface notebook you will find how to use the pretrained deepface model on an image to predict the age/gender/ 
 
-* In the face_emo_age&gen_CV_last you will find a full project using YOLO11 & DeepFace models to analyze photos, videos and webcams for facial analysis
+In the face_emo_age&gen_CV_last you will find a full project using YOLO11 & DeepFace models to analyze photos, videos and webcams for facial analysis
 
 
 
